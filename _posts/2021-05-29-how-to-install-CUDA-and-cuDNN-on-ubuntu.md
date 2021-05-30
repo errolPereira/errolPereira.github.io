@@ -31,4 +31,6 @@ Open the terminal by pressing cltr + alt + T and type the below command.
 nvidia-smi
 ```
 
+The ouput of the above command should look similar to the image below.
+
 

@@ -27,7 +27,7 @@ Let's get started!
 Before you install anything we need to make sure that the necessary graphics drivers are installed in the system. These drivers are required to communicate with the underlying graphics card.
 
 Open the terminal by pressing cltr + alt + T and type the below command.
-```sh
+```
 nvidia-smi
 ```
 

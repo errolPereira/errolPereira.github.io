@@ -28,7 +28,7 @@ Before you install anything we need to make sure that the necessary graphics dri
 
 Open the terminal by pressing cltr + alt + T and type the below command.
 
-<p style={"background-color:#f2f2f2; padding:10px;"}><code>nvidia-smi</code></p>
+<p style="background-color:#f2f2f2; padding:10px;"><code>nvidia-smi</code></p>
 
 If the command returns a message saying "mvidia-smi" is not recognized by the system, then install nvidia-smi by running the below command:
 

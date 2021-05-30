@@ -33,6 +33,10 @@ Open the terminal by pressing cltr + alt + T and type the below command.
 nvidia-smi
 ```
 
-The ouput of the above command should look similar to the image below.
+If the command returns a message saying "mvidia-smi" is not recognized by the system, then install nvidia-smi by running the below command:
+
+
+
+If you do not get any ouput then run the next command to install the latest nvidia drivers in your system.
 
 

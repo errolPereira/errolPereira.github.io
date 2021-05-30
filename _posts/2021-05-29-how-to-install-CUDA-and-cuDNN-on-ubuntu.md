@@ -24,8 +24,11 @@ Let's get started!
 
 ## Installing Pre-requisites
 
-Before you install anything we need to make sure that the necessary graphics drivers are installed in the system or not. These drivers are required to communicate with the underlying graphics card.
+Before you install anything we need to make sure that the necessary graphics drivers are installed in the system. These drivers are required to communicate with the underlying graphics card.
 
 Open the terminal by pressing cltr + alt + T and type the below command.
+```shell
+nvidia-smi
+```
 
 

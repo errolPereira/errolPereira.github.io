@@ -6,7 +6,7 @@ If you have NVIDIA graphics card in your system and want to use it to train mach
 
 
 Below is mine system configuration and the version of CUDA and cuDNN:  
-OS ?ts=2: Ubuntu 20.04 LTS  
+OS [?ts=2]: Ubuntu 20.04 LTS  
 CUDA &nbsp;: 10.2  
 cuDNN &nbsp;: NA  
 

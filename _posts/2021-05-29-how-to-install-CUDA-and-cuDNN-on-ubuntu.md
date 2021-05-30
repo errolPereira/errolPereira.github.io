@@ -2,6 +2,8 @@
 published: true
 ---
 In this post I will guide you in installing CUDA and cuDNN on your ubuntu machine.   
+
+
 If you have NVIDIA graphics card in your system and want to use it to train machine learning and deep learning models, you need to first install the CUDA and cuDNN libraries in your system.  
 
 

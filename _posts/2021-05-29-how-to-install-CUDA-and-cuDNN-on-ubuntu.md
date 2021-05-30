@@ -8,7 +8,7 @@ If you have NVIDIA graphics card in your system and want to use it to train mach
 
 
 ![GeFroce NVIDIA]({{site.baseurl}}/images/christian-wiediger-3GUW88tRmv8-unsplash.jpg)
-Photo by <center><a href="https://unsplash.com/@christianw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Christian Wiediger</a> on <a href="https://unsplash.com/s/photos/rtx?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a><center>
+<center>Photo by <a href="https://unsplash.com/@christianw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Christian Wiediger</a> on <a href="https://unsplash.com/s/photos/rtx?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a><center>
 
 
 Below is mine system configuration and the version of CUDA and cuDNN:  

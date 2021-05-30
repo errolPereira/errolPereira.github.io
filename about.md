@@ -12,7 +12,7 @@ Here I write about things which every Data Scientist comes across while building
 ### More Information
 
 You can find me on the below social platforms as well:  
-Linkedin : "https://www.linkedin.com/in/errolpereira"
+Linkedin : https://www.linkedin.com/in/errolpereira
 
 
 

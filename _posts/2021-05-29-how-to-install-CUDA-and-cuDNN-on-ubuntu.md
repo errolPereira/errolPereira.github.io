@@ -1,6 +1,11 @@
 ---
 published: true
 ---
+---
+layout : post
+title : How to Install CUDA and cuDNN on Ubuntu 20.04 LTS
+---
+
 In this post I will guide you in installing CUDA and cuDNN on your ubuntu machine.   
 
 
@@ -11,12 +16,19 @@ If you have NVIDIA graphics card in your system and want to use it to train mach
 <center>Photo by <a href="https://unsplash.com/@christianw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Christian Wiediger</a> on <a href="https://unsplash.com/s/photos/rtx?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></center>
 
 
-Below is mine system configuration and the version of CUDA and cuDNN:  
+Below is my system configuration and the version of CUDA and cuDNN:  
 OS 		: **Ubuntu 20.04 LTS**  
 CUDA	: **10.2**  
 cuDNN 	: **NA**  
 
 
-Let's get started!  
+Let's get started!
+
+
+## Installing Pre-requisites
+
+Before you install anything we need to make sure that the necessary graphics drivers are installed in the system or not. These drivers are required to communicate with the underlying graphics card.
+
+Open the terminal by pressing cltr + alt + T and type the below command.
 
 

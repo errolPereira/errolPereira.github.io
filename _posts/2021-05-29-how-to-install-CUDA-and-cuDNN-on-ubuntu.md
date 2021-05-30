@@ -30,7 +30,9 @@ Open the terminal by pressing cltr + alt + T and type the below command.
 
 
 ```bash
+
 nvidia-smi
+
 ```
 
 If the command returns a message saying "mvidia-smi" is not recognized by the system, then install nvidia-smi by running the below command:

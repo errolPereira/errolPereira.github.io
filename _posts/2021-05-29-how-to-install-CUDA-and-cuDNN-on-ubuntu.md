@@ -2,8 +2,8 @@
 published: true
 ---
 ---
-layout : post
-title : How to Install CUDA and cuDNN on Ubuntu 20.04 LTS
+layout: post
+title: How to Install CUDA and cuDNN on Ubuntu 20.04 LTS
 ---
 
 In this post I will guide you in installing CUDA and cuDNN on your ubuntu machine.   

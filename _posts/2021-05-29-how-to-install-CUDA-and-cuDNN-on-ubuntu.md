@@ -29,7 +29,7 @@ Before you install anything we need to make sure that the necessary graphics dri
 Open the terminal by pressing cltr + alt + T and type the below command.
 
 
-```
+```javascript
 nvidia-smi
 ```
 

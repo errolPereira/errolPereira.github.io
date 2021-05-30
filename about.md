@@ -13,6 +13,8 @@ Here I write about things which every Data Scientist comes across while building
 
 You can find me on the below social platforms as well:  
 Linkedin : https://www.linkedin.com/in/errolpereira
+Twitter : https://twitter.com/errol_pereira
+Github: https://github.com/errolPereira
 
 
 

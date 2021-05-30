@@ -29,7 +29,7 @@ Before you install anything we need to make sure that the necessary graphics dri
 Open the terminal by pressing cltr + alt + T and type the below command.
 
 
-```javascript
+```bash
 nvidia-smi
 ```
 
@@ -38,5 +38,3 @@ If the command returns a message saying "mvidia-smi" is not recognized by the sy
 
 
 If you do not get any ouput then run the next command to install the latest nvidia drivers in your system.
-
-

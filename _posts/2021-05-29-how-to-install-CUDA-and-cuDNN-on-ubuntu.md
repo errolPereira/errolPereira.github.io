@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: 'How to Install Tensoflow 2.x with CUDA and cuDNN on Ubuntu 20.04 LTS '
-date: 2022-08-21T00:00:00.000Z
+date: 2022-07-12T00:00:00.000Z
 ---
 In this post I will guide you in installing Tensorflow 2.x with CUDA and cuDNN on your ubuntu machine.   
 
@@ -74,3 +74,17 @@ We can test the installation using the below command
 ![GeFroce NVIDIA]({{site.baseurl}}/images/gpu_devices_tf.png)
 
 The above command will list the GPU devices available on your system. If you are able to see your graphics card device number pop up as an output of the above command then the installation is successful.
+
+## Shell Script
+
+For those who find it cumbersome to run the commands one after the other, I have created a shell script that will automatically install all the dependencies for you. Just run the script in your terminal and everyhting else will be taken care for you. You are welcome :)
+
+[Shell Script (2.x)](https://github.com/errolPereira/blog_resources/blob/main/install_tf_with_gpu.sh){:target="_blank" rel="noopener"}
+
+For people like me who likes to run their code using tensorflow 1.x, I have created another script which will install tensorflow 1.15 with the cuda and cudnn dependencies. Welcome again :)
+
+[Shell Script (1.x)](https://github.com/errolPereira/blog_resources/blob/main/install_tf1.15_with_gpu.sh){:target="_blank" rel="noopener"}
+
+## Refrences:
+
+- [Tensorflow official website](https://www.tensorflow.org/){:target="_blank" rel="noopener"}

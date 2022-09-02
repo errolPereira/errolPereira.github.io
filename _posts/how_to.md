@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+title: How to create custom object detection model using Tensorflow Object Detection API
 ---
 In this post I will guide you in creating a custom object detection model using Tensorflow's  Object detection API.
 

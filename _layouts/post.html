@@ -2,8 +2,14 @@
 layout: default
 ---
 
-<article class="post">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-630b3a00a1c9a521"></script>
+
+<article class="post">     
   <h1>{{ page.title }}</h1>
+  
+  <!-- Go to www.addthis.com/dashboard to customize your tools -->
+  <div class="addthis_inline_share_toolbox"></div>
 
   <div class="entry">
     {{ content }}
@@ -14,4 +20,22 @@ layout: default
   </div>
 
   {% include disqus.html %}
+  
+  <br>
+  <div>Liked the Post? Consider sharing it on one of the below platforms</div>
+  <!-- Go to www.addthis.com/dashboard to customize your tools -->
+  <div class="addthis_inline_share_toolbox"></div>
+  
+  <!-- Go to www.addthis.com/dashboard to customize your tools -->
+  <div class="addthis_relatedposts_inline"></div>
+  
+  <script src="https://utteranc.es/client.js"
+        repo="errolPereira/blog_comment_manager"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+  </script>
+            
 </article>
+    

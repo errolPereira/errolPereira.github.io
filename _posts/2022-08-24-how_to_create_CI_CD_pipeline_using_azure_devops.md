@@ -105,6 +105,3 @@ There you go, we created a pipeline which will take care of compiling our applic
 - [Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/?view=azure-devops&viewFallbackFrom=vsts)
 - [Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/)
 - [CI/CD Pipeline](https://docs.microsoft.com/en-us/azure/devops/pipelines/apps/cd/azure/cicd-data-overview?view=azure-devops)
-
-
-

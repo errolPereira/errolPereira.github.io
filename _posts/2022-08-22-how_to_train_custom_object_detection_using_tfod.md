@@ -2,9 +2,9 @@
 published: true
 layout: post
 title: >-
-  How to train custom object detection model using Tensorflow Object Detection
+  How to train custom object detection model using TensorFlow Object Detection
   API
-date: {}
+date: '2022-08-21'
 categories: 'Tensorflow, Object Detection'
 ---
 In this post I will guide you in creating a custom object detection model using Tensorflow's  Object detection API.

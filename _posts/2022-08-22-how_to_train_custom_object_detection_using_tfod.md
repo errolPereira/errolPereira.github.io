@@ -9,6 +9,8 @@ categories: 'Tensorflow, Object Detection'
 ---
 In this post I will guide you in creating a custom object detection model using Tensorflow's  Object detection API.
 
+To keep the post short I have divided the tutorial into 3 parts. In this part I will show you how to install and test TensorFlow and TFOD library with GPU support in your system.
+
 After completing this tutorial, you will know:
 
 1. Install TFOD2 with GPU

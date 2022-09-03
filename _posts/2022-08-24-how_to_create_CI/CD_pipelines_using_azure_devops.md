@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: How to create CI/CD pipelines using Azure DevOps
 category: 'CI/CD, Azure DevOps, pipelines, Continuous Integration, Continuous Development'

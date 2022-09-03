@@ -1,8 +1,10 @@
 ---
 published: true
 layout: post
-title: How to train custom object detection model using Tensorflow Object Detection API
-date: 2022-08-22T00:00:00.000Z
+title: >-
+  How to train custom object detection model using Tensorflow Object Detection
+  API
+date: {}
 categories: 'Tensorflow, Object Detection'
 ---
 In this post I will guide you in creating a custom object detection model using Tensorflow's  Object detection API.
@@ -13,6 +15,8 @@ After completing this tutorial, you will know:
 2. Prepare and annotate image data for custom object detection
 3. Configure a model from TFOD model zoo
 4. Train and test the model
+
+![TFOD Display]({{site.baseurl}}/images/tfod_display_pic.jpg)
 
 In this post I am using Ubuntu machine to install the package and train object detection model. Below are the specifications of my machine and the libraries I am going to use.
 
@@ -58,10 +62,14 @@ Once the coco API installation is done, we will move on to setup and install the
   <code>python -m pip install --use-feature=2020-resolver .</code>
 </p>
 
-# Testing the object detection API
+## Testing the object detection API
 
 Now that we have installed the API in our system, let's go ahead and test it. Run the below command that will trigger a chain of tests performed using one of the models from the Tensorflow Model Zoo and will show a similar output as below. The command needs to be run from the research folder.
 
 <p style="background-color:#f2f2f2; padding:10px;"><code>python object_detection/builders/model_builder_tf2_test.py</code></p>
 
+![TFOD final installation]({{site.baseurl}}/images/tfod_install_successful.png)
 
+If you want to see the object detection in action, you can run the notebook present in research/object_detection/colab_notebooks/object_detection_tutorial.ipynb. One of the output of this notebook is shown below.
+
+![TFOD final installation]({{site.baseurl}}/images/test_tf_image.png)

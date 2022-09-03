@@ -50,8 +50,14 @@ The above command will not produce any output. The next dependency of TFOD is th
 
 <p style="background-color:#f2f2f2; padding:10px;">
   <code>git clone https://github.com/cocodataset/cocoapi.git.</code>
+</p>
+<p style="background-color:#f2f2f2; padding:10px;">
   <code>cd cocoapi/PythonAPI</code>
+</p>
+<p style="background-color:#f2f2f2; padding:10px;">
   <code>make</code>
+</p>
+<p style="background-color:#f2f2f2; padding:10px;">
   <code>cp -r pycocotools PATH_TO_TF/TensorFlow/models/research/</code>
 </p>
 
